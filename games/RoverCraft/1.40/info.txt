@@ -1,3 +1,0 @@
-android=4.1+
-version=1.40
-file=com.mobirate.rovercraft.gplay_1.40_140000.apk
