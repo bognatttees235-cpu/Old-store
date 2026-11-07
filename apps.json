@@ -1,6 +1,25 @@
 {
  "apps": [
   {
+   "id": "abf262975",
+   "name": "Aimp",
+   "cat": "app",
+   "desc": "",
+   "icon": "",
+   "added": 1794062794,
+   "versions": [
+    {
+     "version": "1.02",
+     "android": "2.3+",
+     "minSdk": 9,
+     "file": "apps/Aimp/1.02/aimp_1.02.apk",
+     "size": "2.7 МБ",
+     "sha256": "0e50a4ac2b57a0978b17abdc0c4c88161cc3065a2f04c697e76e81ddc97412b9",
+     "added": 1794062794
+    }
+   ]
+  },
+  {
    "id": "gd912ec43",
    "name": "Minecraft PE",
    "cat": "game",
