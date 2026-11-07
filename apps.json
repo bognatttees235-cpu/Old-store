@@ -6,7 +6,7 @@
    "cat": "game",
    "desc": "",
    "icon": "",
-   "added": 1794052656,
+   "added": 1794054199,
    "versions": [
     {
      "version": "0.10.0",
@@ -16,6 +16,15 @@
      "size": "12.9 МБ",
      "sha256": "5ee7c7521d7ce06d8982a1a58e6346a9654553c22e025c611112ca8f2e88e727",
      "added": 1794052656
+    },
+    {
+     "version": "0.9.5",
+     "android": "2.3+",
+     "minSdk": 9,
+     "file": "games/Minecraft%20PE/0.9.5/com.mojang.minecraftpe.apk",
+     "size": "12.9 МБ",
+     "sha256": "1d7aa1a34ef84e7976d8e083cdaae0b65df2f57d6df300747fc612ad6083e812",
+     "added": 1794054199
     }
    ]
   }
