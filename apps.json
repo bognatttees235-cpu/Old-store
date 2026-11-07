@@ -1,3 +1,23 @@
 {
- "apps": []
+ "apps": [
+  {
+   "id": "gd912ec43",
+   "name": "Minecraft PE",
+   "cat": "game",
+   "desc": "",
+   "icon": "",
+   "added": 1794052656,
+   "versions": [
+    {
+     "version": "0.10.0",
+     "android": "2.3+",
+     "minSdk": 9,
+     "file": "games/Minecraft%20PE/0.10.0/minecraft-pe-0-10-0.apk",
+     "size": "12.9 МБ",
+     "sha256": "5ee7c7521d7ce06d8982a1a58e6346a9654553c22e025c611112ca8f2e88e727",
+     "added": 1794052656
+    }
+   ]
+  }
+ ]
 }
