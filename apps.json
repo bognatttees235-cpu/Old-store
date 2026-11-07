@@ -27,6 +27,25 @@
      "added": 1794054199
     }
    ]
+  },
+  {
+   "id": "g1e0cefd1",
+   "name": "RoverCraft",
+   "cat": "game",
+   "desc": "",
+   "icon": "",
+   "added": 1794057940,
+   "versions": [
+    {
+     "version": "1.40",
+     "android": "4.1+",
+     "minSdk": 16,
+     "file": "games/RoverCraft/1.40/com.mobirate.rovercraft.gplay_1.40_140000.apk",
+     "size": "96.6 МБ",
+     "sha256": "b97bf4088106afb66ef00dcbd73c7fdaf72fcba7e953d92eb822cc8ae872c35d",
+     "added": 1794057940
+    }
+   ]
   }
  ]
 }
