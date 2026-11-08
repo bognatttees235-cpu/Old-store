@@ -20,6 +20,25 @@
    ]
   },
   {
+   "id": "gb79184e5",
+   "name": "Jetpack Joyride",
+   "cat": "game",
+   "desc": "",
+   "icon": "",
+   "added": 1794135674,
+   "versions": [
+    {
+     "version": "1.40",
+     "android": "4.1+",
+     "minSdk": 16,
+     "file": "games/Jetpack%20Joyride/1.6.1/com.halfbrick.jetpackjoyride.apk",
+     "size": "44.0 МБ",
+     "sha256": "326d2504051ad87e725ae37a931c4b08a5a2ebc22b219058e28a29ce51e8dc32",
+     "added": 1794135674
+    }
+   ]
+  },
+  {
    "id": "gd912ec43",
    "name": "Minecraft PE",
    "cat": "game",
