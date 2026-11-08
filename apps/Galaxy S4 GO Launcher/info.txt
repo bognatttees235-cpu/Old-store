@@ -1,3 +1,0 @@
-android=2.3+
-version=1.02
-file=com.butterfly.go.theme.gs4.apk
