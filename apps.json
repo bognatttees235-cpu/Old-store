@@ -20,6 +20,63 @@
    ]
   },
   {
+   "id": "a36926f22",
+   "name": "CPU-Z",
+   "cat": "app",
+   "desc": "",
+   "icon": "",
+   "added": 1794153300,
+   "versions": [
+    {
+     "version": "1.02",
+     "android": "2.3+",
+     "minSdk": 9,
+     "file": "apps/CPU-Z/1.33/com.cpuid.cpu_z.apk",
+     "size": "1.4 МБ",
+     "sha256": "61519a41f21a5b748b270fd10c545a69ca33d0f6004c044d8572800a2fb91b0b",
+     "added": 1794153300
+    }
+   ]
+  },
+  {
+   "id": "a9cb5a864",
+   "name": "Galaxy S4 GO Launcher copy",
+   "cat": "app",
+   "desc": "",
+   "icon": "",
+   "added": 1794153300,
+   "versions": [
+    {
+     "version": "1.02",
+     "android": "2.3+",
+     "minSdk": 9,
+     "file": "apps/Galaxy%20S4%20GO%20Launcher%20copy/1.0/com.butterfly.go.theme.gs4.apk",
+     "size": "6.0 МБ",
+     "sha256": "2aa3bc97276f91f4e94465ad3a611950565558e46dd37f11cf2981bf3087b4bf",
+     "added": 1794153300
+    }
+   ]
+  },
+  {
+   "id": "a06b17849",
+   "name": "S3 Ripple Locker",
+   "cat": "app",
+   "desc": "",
+   "icon": "",
+   "added": 1794153300,
+   "versions": [
+    {
+     "version": "1.02",
+     "android": "2.3+",
+     "minSdk": 9,
+     "file": "apps/S3%20Ripple%20Locker/1.0/com.galaxytheme.ripple.apk",
+     "size": "2.7 МБ",
+     "sha256": "58501d722c746a9bd081794435d80d6b25058a940ff1c7710e7a0bedfb416869",
+     "added": 1794153300
+    }
+   ]
+  },
+  {
    "id": "gb79184e5",
    "name": "Jetpack Joyride",
    "cat": "game",
