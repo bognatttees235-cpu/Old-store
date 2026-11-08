@@ -65,6 +65,25 @@
      "added": 1794057940
     }
    ]
+  },
+  {
+   "id": "g1c737d28",
+   "name": "Shrek Kart HD Free",
+   "cat": "game",
+   "desc": "",
+   "icon": "",
+   "added": 1794135623,
+   "versions": [
+    {
+     "version": "1.40",
+     "android": "4.1+",
+     "minSdk": 16,
+     "file": "games/Shrek%20Kart%20HD%20Free/1.0/com.gameloft.android.GAND.GloftSKHP.apk",
+     "size": "3.1 МБ",
+     "sha256": "a7ea2f98e3470d53ebd01464950133d373be7b410727fbe02ebd7c004c230591",
+     "added": 1794135623
+    }
+   ]
   }
  ]
 }
